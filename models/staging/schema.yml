@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: staging
-    database: kestra-sandbox-467210\
+    database: kestra-sandbox-467210
     schema: trip_data_all
 
     tables:
